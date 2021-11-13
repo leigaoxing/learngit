@@ -5,7 +5,7 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
 john branch
-perter branch 103 issue
+perter branch 104 issue
 stash save 12
 stash save 123
 stash save 1234
