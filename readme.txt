@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 john branch
 perter branch 103 issue
 stash save 12
+stash save 123
